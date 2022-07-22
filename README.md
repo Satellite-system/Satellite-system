@@ -54,7 +54,7 @@ I'm Adarsh Urmaliya a Software Engineer and a Full Stack Dev in a perpetual stat
 <br />
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/Satellite-system/Satellite-system/blob/main/ADARSH's%20Resume.pdf)
+- :paperclip: [My Resume/CV](https://github.com/Satellite-system/Satellite-system/blob/main/Resume/ADARSH's%20Resume.pdf)
 - :email: adarshurmaliya@gmail.com
 
 
