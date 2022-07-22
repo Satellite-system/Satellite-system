@@ -2,8 +2,9 @@
 
 <hr>
 
-I am a Software Engineer and a Full Stack Dev in a perpetual state of learning new technologies. Primary interests: React Navtive, Competitive Programming, C++, JavaScript, MERN Stack and all...
+I am a Software Engineer and a Full Stack Dev in a perpetual state of learning new technologies. Primary interests: React Navtive, Competitive Programming, C++, MERN Stack, Android Dev and all...
 
+<h3> Languages and Tools: </h3>
 
 <!--
 **Satellite-system/Satellite-system** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
