@@ -8,12 +8,12 @@ I'm Adarsh Urmaliya a Software Engineer and a Full Stack Dev in a perpetual stat
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @Toptal
+- 🔭 I’m currently a student
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: islempenywis@gmail.com.
-- 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
-- ⚡ Fun fact: I play games and go to the GYM very often.
+- 🤔 I’m working on project Amazon Clone.
+- 📫 How to reach me: adarshurmaliya@gmail.com.
+- 😄 Pronouns: Adarsh Urmaliya, Adarsh, Zakarian.
+- ⚡ Fun fact: I play mobile games and watch Movies very often.
 
 #### Top Technologies
 
