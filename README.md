@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I am Adarsh Urmaliya, a final year Information Technology Student
+
+<hr>
+
+I am a Software Engineer and a Full Stack Dev in a perpetual state of learning new technologies. Primary interests: React Navtive, Competitive Programming, C++, JavaScript, MERN Stack and all...
+
 
 <!--
 **Satellite-system/Satellite-system** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
