@@ -19,25 +19,28 @@ I'm Adarsh Urmaliya a Software Engineer and a Full Stack Dev in a perpetual stat
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://github.com/Satellite-system/Amazon-clone-React_based-Web_Page) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://github.com/Satellite-system/Disney-Clone_MERN-project) [![Android Badge](https://img.shields.io/badge/-Android-4285F4?style=for-the-badge&labelColor=black&logo=Android&logoColor=#3DDA84)](https://github.com/Satellite-system/Multi-user-Real-Time-Chat-Application) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](https://github.com/Satellite-system/React_based-Note_taking-web-server-Api) [![Python Badge](https://img.shields.io/badge/-Python-3673A6?style=for-the-badge&labelColor=black&logo=python&logoColor=#1E405D)](https://github.com/Satellite-system/Voice_Assistant)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://github.com/Satellite-system/Amazon-clone-React_based-Web_Page)  [![C++ Badge](https://img.shields.io/badge/C++-004283?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=659BD3)](https://github.com/Satellite-system/Amazon-clone-React_based-Web_Page)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://github.com/Satellite-system/Disney-Clone_MERN-project)  [![Android Badge](https://img.shields.io/badge/-Android-4285F4?style=for-the-badge&labelColor=black&logo=Android&logoColor=#3DDA84)](https://github.com/Satellite-system/Multi-user-Real-Time-Chat-Application)  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](https://github.com/Satellite-system/React_based-Note_taking-web-server-Api)  [![Python Badge](https://img.shields.io/badge/-Python-3673A6?style=for-the-badge&labelColor=black&logo=python&logoColor=#1E405D)](https://github.com/Satellite-system/Voice_Assistant) [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7D12F8?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=7D12F9)](https://github.com/Satellite-system/React_based-Note_taking-web-server-Api)
 
-### Tutorials
+### Languages and tools:
 
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][htmltutorial]
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/c-plusplus.svg" />
 
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascripttutorial]
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscodetutorial]
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/Satellite-system/geticon/master/icons/firebase.svg" />
+
+<img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/Satellite-system/geticon/master/icons/figma.svg" />
 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/Satellite-system/geticon/master/icons/java.svg" />
 
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
@@ -51,8 +54,8 @@ I'm Adarsh Urmaliya a Software Engineer and a Full Stack Dev in a perpetual stat
 <br />
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
-- :email: ipenywis@gmail.com
+- :paperclip: [My Resume/CV]( )
+- :email: adarshurmaliya@gmail.com
 
 
 #### Profile Visits 
