@@ -1,6 +1,6 @@
 ## Hi I'm Adarsh <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm Adarsh Urmaliya a Software Engineer and a Full Stack Dev in a perpetual state of learning new technologies. I Spend most of time coding or creating new projects. Primary interests: React Native, Competitive Programming, C++, MERN Stack, Android Dev and all....
+I'm Adarsh Urmaliya an IT Student, Software Engineer and a Full Stack Dev in a perpetual state of learning new technologies. I Spend most of time coding or creating new projects. Primary interests: React Native, Competitive Programming, C++, MERN Stack, Android Dev and all....
 
 <img align="right" src="https://user-images.githubusercontent.com/67074308/181810714-f050ac90-47c6-41ad-8e26-82ef9ce9ec27.gif" width="250px" height="auto" >
 
