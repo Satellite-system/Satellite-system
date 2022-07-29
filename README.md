@@ -1,12 +1,15 @@
 ## Hi I'm Adarsh <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm Adarsh Urmaliya an IT Student and a Full Stack Dev in a perpetual state of learning new technologies. I Spend most of time coding or creating new projects. Primary interests: React Native, Competitive Programming, C++, MERN Stack, Android Dev and all....
+I'm Adarsh Urmaliya a Software Engineer and a Full Stack Dev in a perpetual state of learning new technologies. I Spend most of time coding or creating new projects. Primary interests: React Native, Competitive Programming, C++, MERN Stack, Android Dev and all....
+
+<img align="right" src="https://user-images.githubusercontent.com/67074308/181810714-f050ac90-47c6-41ad-8e26-82ef9ce9ec27.gif" width="250px" height="auto" >
 
 :mailbox: Reach me out!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Adarsh-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-urmaliya-6008201aa/) [![Mail Badge](https://img.shields.io/badge/-zakarian17s-4CB96B?style=flat&labelColor=brightgreen&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/zakarian17s/profile) [![Mail Badge](https://img.shields.io/badge/-Adarsh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:adarshurmaliya@gmail.com)
 
-<!-- TODO: Add last video link -->
+
+<br>
 
 - 🔭 I’m currently a student
 - :computer: Most used line of code `git commit -m "Initial Commit"`
@@ -14,6 +17,7 @@ I'm Adarsh Urmaliya an IT Student and a Full Stack Dev in a perpetual state of l
 - 📫 How to reach me: adarshurmaliya@gmail.com.
 - 😄 Pronouns: Adarsh Urmaliya, Adarsh, Zakarian.
 - ⚡ Fun fact: I play mobile games and watch Movies very often.
+
 
 #### Top Technologies
 
@@ -54,7 +58,7 @@ I'm Adarsh Urmaliya an IT Student and a Full Stack Dev in a perpetual state of l
 <br />
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/Satellite-system/Satellite-system/blob/main/Resume/ADARSH's%20Resume.pdf)
+- :paperclip: [My Resume/CV](https://github.com/Satellite-system/Satellite-system/blob/main/ADARSH's%20Resume.pdf)
 - :email: adarshurmaliya@gmail.com
 
 
@@ -75,7 +79,7 @@ I'm Adarsh Urmaliya an IT Student and a Full Stack Dev in a perpetual state of l
       <h1>Achievements</h1>
     </td>
     <td align="center">
-      <img align="right" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Satellite-system&count_private=true&layout=compact&theme=chartreuse-dark&langs_count=12" height="170px" width="360px">
+      <img alt="" width="400" align="right" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Satellite-system&count_private=true&layout=compact&theme=chartreuse-dark&langs_count=12" height="170px" width="360px">
     </td>
   </tr>
   <tr>
@@ -105,6 +109,17 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 
 #### Github Stats
 
-![Adarsh's github stats](https://github-readme-stats.vercel.app/api?username=Satellite-system&count_private=true&theme=chartreuse-dark)
+![Adarsh's github stats](https://github-readme-stats.vercel.app/api?username=Satellite-system&count_private=true&theme=chartreuse-dark&hide=contribs,prs)
+  
+ <hr>
+
+<h2 align="left">
+:hourglass_flowing_sand:
+&nbsp;
+Recent Activity :
+<br></h2>
+                                                                                                      
+<img src = "https://activity-graph.herokuapp.com/graph?username=Satellite-system&count_private=true&bg_color=000000&line=ffb812&area=true&color=6BD600&hide_border=false&hide_title=true">
+
 
 </details>
