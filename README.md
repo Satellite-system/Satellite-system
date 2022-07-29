@@ -1,6 +1,6 @@
 ## Hi I'm Adarsh <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm Adarsh Urmaliya a Software Engineer and a Full Stack Dev in a perpetual state of learning new technologies. I Spend most of time coding or creating new projects. Primary interests: React Native, Competitive Programming, C++, MERN Stack, Android Dev and all....
+I'm Adarsh Urmaliya an IT Student and a Full Stack Dev in a perpetual state of learning new technologies. I Spend most of time coding or creating new projects. Primary interests: React Native, Competitive Programming, C++, MERN Stack, Android Dev and all....
 
 :mailbox: Reach me out!
 
@@ -54,7 +54,7 @@ I'm Adarsh Urmaliya a Software Engineer and a Full Stack Dev in a perpetual stat
 <br />
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/Satellite-system/Satellite-system/blob/main/ADARSH's%20Resume.pdf)
+- :paperclip: [My Resume/CV](https://github.com/Satellite-system/Satellite-system/blob/main/Resume/ADARSH's%20Resume.pdf)
 - :email: adarshurmaliya@gmail.com
 
 
