@@ -67,10 +67,28 @@ I'm Adarsh Urmaliya a Software Engineer and a Full Stack Dev in a perpetual stat
   More stuff about me
 </summary>
 
-<br >
-
-I love Coding !
 <br>
+
+<table>
+  <tr>
+    <td align="center">
+      <h1>Achievements</h1>
+    </td>
+    <td align="center">
+      <img align="right" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Satellite-system&count_private=true&layout=compact&theme=chartreuse-dark&langs_count=12" height="170px" width="360px">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="" width="400" src="https://github-readme-stats.vercel.app/api?username=Satellite-system&count_private=true&theme=chartreuse-dark&hide=contribs,prs" width="360px" height="170px" >
+    </td>
+    <td align="center">
+       <img alt="" width="400" align="right" src ="https://github-readme-streak-stats.herokuapp.com?user=Satellite-system&count_private=true&theme=chartreuse-dark" width="360px" height="170px">
+    </td>
+  </tr>
+</table>
+
+<h3>I love Coding !</h3>
 
 #### Coding Stats
 
@@ -87,6 +105,6 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 
 #### Github Stats
 
-![Adarsh's github stats](https://github-readme-stats.vercel.app/api?username=Satellite-system&count_private=true&theme=chartreuse-dark&hide=contribs,prs)
+![Adarsh's github stats](https://github-readme-stats.vercel.app/api?username=Satellite-system&count_private=true&theme=chartreuse-dark)
 
 </details>
