@@ -97,16 +97,16 @@ I'm Adarsh Urmaliya an IT Student, Software Engineer and a Full Stack Dev in a p
 #### Coding Stats
 
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ```text
-JavaScript   27 hrs 41 mins  ██████████████░░░░░░░░░░░   69.47 % 
-C++           8 hrs 38 mins  ██████░░░░░░░░░░░░░░░░░░░   21.45 % 
-HTML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-Other       22 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+C++          7 hrs 46 mins   ████████████▓░░░░░░░░░░░░   50.79 %
+JavaScript   7 hrs 1 min     ███████████▒░░░░░░░░░░░░░   45.85 %
+JSON         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+CSS          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
 ```
+
+<!--END_SECTION:waka-->
+
 
 #### Github Stats
 
