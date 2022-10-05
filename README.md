@@ -64,7 +64,7 @@ I'm Adarsh Urmaliya an IT Student, Software Engineer and a Full Stack Dev in a p
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Satellite-system.Satellite-system)
+![visitors](https://komarev.com/ghpvc/?username=Satellite-system)
 
 <details>
 <summary>
