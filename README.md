@@ -94,22 +94,7 @@ I'm Adarsh Urmaliya an IT Student, Software Engineer and a Full Stack Dev in a p
 
 <h3>I love Coding !</h3>
 
-#### Coding Stats
-
-<!--START_SECTION:waka-->
-
-```text
-JavaScript   6 hrs 10 mins   █████████▒░░░░░░░░░░░░░░░   36.92 %
-C++          5 hrs 32 mins   ████████▒░░░░░░░░░░░░░░░░   33.15 %
-CSS          3 hrs 15 mins   █████░░░░░░░░░░░░░░░░░░░░   19.47 %
-Markdown     1 hr 21 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
-HTML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-Git          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-```
-
-<!--END_SECTION:waka-->
-
-
+<!-- #### Coding Stats -->
 #### Github Stats
 
 ![Adarsh's github stats](https://github-readme-stats.vercel.app/api?username=Satellite-system&count_private=true&theme=chartreuse-dark&hide=contribs,prs)
