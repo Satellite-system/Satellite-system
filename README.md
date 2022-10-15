@@ -59,7 +59,7 @@ I'm Adarsh Urmaliya an IT Student, Software Engineer and a Full Stack Dev in a p
 
 #### Bizness
 - :paperclip: [My Resume/CV](https://github.com/Satellite-system/Satellite-system/blob/main/Resume/ADARSH's%20%20Resume.pdf)
-- :site: [adarshurmaliya.me](https://adarshurmaliya.me/)
+- :link: [adarshurmaliya.me](https://adarshurmaliya.me/)
 - :email: adarshurmaliya@gmail.com
 
 
